@@ -1,0 +1,29 @@
+{
+    "name": "@rodgf/string_version",
+    "version": “1.0 .0”,
+    "description": "Adds version to a string",
+    "keywords": ["npm", "string_version", "package"],
+    "homepage": "https://github.com/rodgf/npm-package/StringVersion",
+    "bugs": {
+        "url": "https://github.com/rodgf/npm-package/StringVersion/issues",
+        "email": "rodgf@yahoo.com"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rodgf/npm-package/StringVersion"
+    },
+    "author": "Rodrigo Adel",
+    "license": "MIT",
+    "private": false,
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "engineStrict": true
+}
