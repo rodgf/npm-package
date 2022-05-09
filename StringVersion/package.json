@@ -1,6 +1,6 @@
 {
     "name": "@rodgf/string_version",
-    "version": "1.0 .0",
+    "version": "1.0.0",
     "description": "Adds version to a string",
     "keywords": ["npm", "string_version", "package"],
     "homepage": "https://github.com/rodgf/npm-package/StringVersion",
